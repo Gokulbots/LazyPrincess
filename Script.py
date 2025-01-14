@@ -8,10 +8,10 @@ Glad to see you here. It seems that you really love <a href=https://t.me/LazyDev
 Glad to see you here. It seems that you really love <a href=https://t.me/LazyDeveloperr >LazyDeveloper's</a> work.\n\n<b>File to LiNK converting</b> feature will be available soon, please join <a href=https://t.me/LazyDeveloper>Dev Channel</a> and stay tuned for next <a href=https://t.me/LazyDeveloper>update</a>.\n\n  🐞 ══• ʀᴇᴘᴏʀᴛ ɪꜱꜱᴜᴇ •══ here: <a href=http://t.me/LazyDeveloperSupport>LazyDev Support</a>
     """
     DNT_TEXT = """Hey sweetie {},
-Thanks for thinking about us.\nIt seems that you really love <a href=https://t.me/LazyDeveloperr >LazyDeveloper's</a> work.\n\n<b>For your kind information, we do not ask or force anyone for any kind of payment</b>. But if you really want to donate us then you can send money to us from below links...\n\n💵 Reach Donation Page : <a href=http://t.me/DonateLazyDeveloper>Click here...</a>\n\nT❤️ hank you so much..
+Thanks for thinking about us.\nIt seems that you really love <a href=https://t.me/CINEMACCBOTUPDATES >Developer's</a> work.\n\n<b>For your kind information, we do not ask or force anyone for any kind of payment</b>. But if you really want to donate us then you can send money to us from below links...\n\n💵 Reach Donation Page : <a href=http://t.me/OWNER_CC_BOT>Click here...</a>\n\nT❤️ hank you so much..
     """
     REQ_AUTH_TEXT = """Hello {},
-\nSorry sweetie.. You must have to be the Authentic User to complete this operation...\n\n👮‍♀ REPORT ISSUE HERE: <a href=https://t.me/LazyDeveloperSupport>LazyDeveloper Support</a>\n\n
+\nSorry sweetie.. You must have to be the Authentic User to complete this operation...\n\n👮‍♀ REPORT ISSUE HERE: <a href=https://t.me/CINEMACCBOTDISCUSSION>Developer Support</a>\n\n
     """
     SHORTLINK_INFO = """<b>
  ❗<u>ʜᴏᴡ ᴛᴏ ᴇᴀʀɴ ᴍᴏɴᴇʏ ᴜꜱɪɴɢ ʙᴏᴛ</u>❗
@@ -64,9 +64,9 @@ Thanks for thinking about us.\nIt seems that you really love <a href=https://t.m
 
     NO_VOID_FORMAT_FOUND = "ERROR... <code>{}</code>"
 
-    UPLOAD_START = "<b>initiating Lazy Upload ⚡</b>"
+    UPLOAD_START = "<b>initiating  Upload ⚡</b>"
 
-    LAZY_UPLOAD_START = """<b>●❤♡ Recieving Lazy File ♡❤●</b>\n\n⏯**File Name:** `{}`"""
+    LAZY_UPLOAD_START = """<b>●❤♡ Recieving  File ♡❤●</b>\n\n⏯**File Name:** `{}`"""
 
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "▼ Dᴏᴡɴʟᴏᴀᴅᴇᴅ ɪɴ {} sᴇᴄᴏɴᴅs.\n▲ Uᴘʟᴏᴀᴅᴇᴅ ɪɴ {} sᴇᴄᴏɴᴅs\n\n★.•☆•.★𑁔𑁔★ 𝖽𝖾𝗍✫𝗂𝗅𝗌 ★𑁔𑁔★.•☆•.★\n\n🔗<b>URL:</b> {}\n\n✩📂<b>F Name:</b> `{}`\n\n✩📝<b>C Name:</b> `{}`\n\n🧬**File Size:** `{}`\n\n🧡Thank you🧡"
 
@@ -107,7 +107,7 @@ Here is the help for my COMMANDS."""
 
 """
     ABOUT_TXT = """✯ 𝕚𝕥𝕤❜𝕤 me: {}
-✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/LazyDeveloper>🦋 𝕃𝕒𝕫𝕪𝔻𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣 🦋</a>
+✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/DMWITHGOKUL>⚡𝗚𝗚 𝗢𝗪𝗡𝗘𝗥⚡</a>
 ✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 ✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
@@ -116,11 +116,7 @@ Here is the help for my COMMANDS."""
 """
 
     SOURCE_TXT = """<b>NOTE:</b>
-- 🎉Lᴀᴢʏ Pʀɪɴᴄᴇss ɪs ᴀɴ ᴏᴘᴇɴ sᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ.
-
-- 🎁Sᴏᴜʀᴄᴇ - https://github.com/LazyDeveloperr/LazyPrincess 
- 
-- ✨Pʟᴇᴀsᴇ ɢɪᴠᴇ ᴀ sᴛᴀʀ ᴛᴏ ᴛʜɪs ʀᴇᴘᴏ ᴀғᴛᴇʀ ғᴏʀᴋ. Sᴀʟᴜᴛᴇ ᴛᴏ sɪʀ <a href=https://t.me/LazyDeveloperr>LᴀᴢʏDᴇᴠᴇʟᴏᴘᴇʀ</a> ғᴏʀ ᴀᴅᴅɪɴɢ ᴇxᴛʀᴀ ғᴇᴀᴛᴜʀᴇs ɪɴ ᴍᴇ.
+- ❤️ ᴛʜɪꜱ ɪꜱ ɴᴏᴛ ᴀ ᴏᴩᴇɴ ꜱᴏᴜʀᴄᴇ ᴩʀᴏᴊᴇᴄᴛ
 
 <b>DEV:</b>
 - 🦋 <a href=https://t.me/LazyDeveloper>LazyDeveloper</a> 🦋"""
